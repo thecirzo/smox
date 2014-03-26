@@ -1,4 +1,4 @@
 smox
 ====
 
-programmable mock service engine that's awesome
+programmable mock service engine
